@@ -131,3 +131,5 @@ fabric.properties
 .nfs*
 
 # End of https://www.gitignore.io/api/android,git,linux,jetbrains
+
+.idea/*
