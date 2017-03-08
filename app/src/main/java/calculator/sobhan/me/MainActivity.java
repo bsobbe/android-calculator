@@ -149,7 +149,6 @@ public class MainActivity extends AppCompatActivity {
                 calculate();
                 binding.infoTextView.setText(binding.infoTextView.getText().toString() + second_value + " = " + first_value);
                 first_value = Double.NaN;
-                second_value = Double.NaN;
                 CURRENT_ACTION = '0';
             }
         });
