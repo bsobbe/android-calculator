@@ -1,5 +1,4 @@
 # android-calculator
-Simple android calculator
-For learning and fun!
+Simple android calculator for learning and fun!
 
 enjoy! ;)
